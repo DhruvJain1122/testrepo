@@ -1,4 +1,6 @@
-[
+{
+
+  "tokens": [
     {
       "chainId": 43114,
       "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
@@ -495,4 +497,5 @@
       "symbol": "FXS",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
     }
-  ]
+  ],
+}
