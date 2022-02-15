@@ -5,6 +5,7 @@
       "address": "0x70a4fcf3e4c8591b5b4318cec5facbb96a604198",
       "decimals": 18,
       "name": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
       "symbol": "DAI"
     },
     {
@@ -12,6 +13,7 @@
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
       "decimals": 18,
       "name": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
       "symbol": "ETH"
     },
     {
@@ -19,6 +21,7 @@
       "address": "0x4da8d0795830f75be471f072a034d42c369b5d0a",
       "decimals": 18,
       "name": "ChainLink Token (rinkeby)",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
       "symbol": "LINK"
     },
     {
@@ -26,6 +29,7 @@
       "address": "0x690f4886c6911d81beb8130db30c825c27281f22",
       "decimals": 18,
       "name": "MLTT (rinkeby)",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
       "symbol": "MLTT"
     },
     {
@@ -33,6 +37,7 @@
       "address": "0xeb8f08a975ab53e34d8a0330e0d34de942c95926",
       "decimals": 6,
       "name": "USD Coin (rinkeby)",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
       "symbol": "USDC"
     },
     {
@@ -40,6 +45,7 @@
       "address": "0x7457fc3f89ac99837d44f60b7860691fb2f09bf5",
       "decimals": 8,
       "name": "wBTC",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png",
       "symbol": "wBTC"
     }
   ]
