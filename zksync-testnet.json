@@ -1,7 +1,7 @@
 {
   "tokens": [
     {
-      "chainId": 277,  
+      "chainId": 280,  
       "address": "0x70a4fcf3e4c8591b5b4318cec5facbb96a604198",
       "decimals": 18,
       "name": "DAI",
@@ -9,7 +9,7 @@
       "symbol": "DAI"
     },
     {
-      "chainId": 277,  
+      "chainId": 280,  
       "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
       "decimals": 18,
       "name": "ETH",
@@ -17,7 +17,7 @@
       "symbol": "ETH"
     },
     {
-      "chainId": 277,  
+      "chainId": 280,  
       "address": "0x4da8d0795830f75be471f072a034d42c369b5d0a",
       "decimals": 18,
       "name": "ChainLink Token (rinkeby)",
@@ -25,7 +25,7 @@
       "symbol": "LINK"
     },
     {
-      "chainId": 277,  
+      "chainId": 280,  
       "address": "0x690f4886c6911d81beb8130db30c825c27281f22",
       "decimals": 18,
       "name": "MLTT (rinkeby)",
@@ -33,7 +33,7 @@
       "symbol": "MLTT"
     },
     {
-      "chainId": 277,  
+      "chainId": 280,  
       "address": "0xeb8f08a975ab53e34d8a0330e0d34de942c95926",
       "decimals": 6,
       "name": "USD Coin (rinkeby)",
@@ -41,7 +41,7 @@
       "symbol": "USDC"
     },
     {
-      "chainId": 277,  
+      "chainId": 280,  
       "address": "0x7457fc3f89ac99837d44f60b7860691fb2f09bf5",
       "decimals": 8,
       "name": "wBTC",
